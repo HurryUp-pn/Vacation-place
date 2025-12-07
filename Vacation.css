@@ -1,0 +1,47 @@
+body {
+ background-color: #12BAD0;
+}
+
+h1{
+color:FDDA04;
+font-family:'Times New Roman';
+}
+
+h2{
+color:FDDA04;
+font-family:'Times New Roman';
+}
+
+h3{
+color:FDDA04;
+font-family:'Times New Roman';
+}
+
+h4{
+color:FDDA04;
+font-family:'Times New Roman';
+}
+
+
+p{
+color:ED3A53;
+font-family:'Times New Roman';
+}
+
+li{
+color:ED3A53;
+font-family:'Times New Roman';
+}
+
+
+
+div{
+border-style: solid;
+color: #42372f;
+border-color: #5c1508;
+border-radius:300px;
+border-spacing: 20px;
+bacground-color: #f0bb90;
+padding: 15px;
+font-family:'Times New Roman';
+}
